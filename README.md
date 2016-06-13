@@ -14,3 +14,7 @@ http://oxidforge.org/en/security-bulletin-2016-001.html
 
 FAQ:
 http://oxidforge.org/en/faq-security-bulletin-2016-001.html
+
+How to use:
+
+Upload patcher.php to your shop root, open it and follow the advice. GUI is german only currently, feel free to commit.
