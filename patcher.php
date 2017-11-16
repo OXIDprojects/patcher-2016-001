@@ -113,7 +113,7 @@
         <input type="hidden" name="run" value="1" />
         <h2 class="form-signin-heading">Oxid Security Patcher</h2>
         <p>
-          Dieses Script führt die Schritte aus um die Sicherheitslücke 2016-001 zu schließen, nur wenn beide Funktionen ausgeführt werden ist die Sicherheitslücke geschlossen!
+          Dieses Script führt die Schritte aus, um einen direkten Angriff auf die Sicherheitslücke 2016-001 zu verhindern. Nur wenn beide Funktionen ausgeführt werden, kann ein direkter Angriff vermieden werden. Bitte führen Sie unbedingt das angebotene Shopupdate durch, um die Sicherheitslücke zu schliessen!
         </p>
         <p>Release notes:</p>
         <ul>
